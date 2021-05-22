@@ -1,7 +1,7 @@
 import pandas as pd
 import time
 import graph
-import HybridPSO
+import hybrid_pso
 
 arr_arquivos = [
   ('myciel3.txt', 4),

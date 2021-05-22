@@ -2,6 +2,7 @@ from collections import Counter
 import random
 import math
 import numpy as np
+import graph
 
 tam = 11
 
